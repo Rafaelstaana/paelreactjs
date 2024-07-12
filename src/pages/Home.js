@@ -19,7 +19,7 @@ const Home = () => {
             <div className="row align-items-center">
                 <div className="col-lg-6 text-center text-lg-start">
                     <h1 className="display-2 text-white fw-bold">Hi I'm <span className="alex">Rafael</span></h1>
-                    <h2 className="text-animate">Billiard Player</h2>
+                    <h2 className="text-animate">Basketball Player</h2>
                     <p className="text-white">Basketball is such an exciting sport! Whether you're playing on the court or watching a game, there's always something thrilling about it. </p>
                     <a href="#work" className="btn btn-brand">Play with Me</a>
                     <a href="#work" className="btn btn-brand">Basketball</a>
