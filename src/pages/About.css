@@ -1,0 +1,42 @@
+#about {
+    min-height: 70vh;
+    background: black;
+}
+.h4{
+  margin-left: 30px;
+}
+
+#about img {
+  width: 300px; 
+  border-radius: 10px;
+  box-shadow: 15px 15px 10px 10px #363636;
+}
+.container{
+  background: black;
+
+}
+.row{
+  background: black;
+}
+.col{
+  background: black;
+}
+.card{
+  background: black;
+}
+.card-box{
+  background: #323232;
+}
+.card-shadow{
+  background: #ddd2d2;
+  border-radius: 20px;
+  border: .2rem solid #464e18;
+}
+.card-shadow:hover{
+  background: #666c17;
+  color: aliceblue;
+}
+
+
+
+

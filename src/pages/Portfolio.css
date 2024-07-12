@@ -1,0 +1,52 @@
+#portfolio {
+    min-height: 100vh;
+    background: black
+}
+
+#portfolio img {
+    width: 100px;
+}
+#portfolio-info {
+    min-height: 100vh;
+}
+.cols{
+    padding-top: 80px;
+}
+.onelex{
+    width: 50px;
+    border-radius: 10px;
+}
+
+#portfolio img {
+    border-radius: 10px;
+}
+
+#portfolio .one {
+    width: 30px;
+ 
+}
+#portfolio .two {
+    width: 450px;
+}
+#portfolio .three {
+    width: 400px;
+}
+#portfolio .four {
+    width: 500px;
+}
+
+#portfolio h4:hover {
+    text-shadow: 0 0 20px #5e5d03, 0 0 40px #0407a3;
+}
+
+.card{
+    transition: background-color 0.3s, 0.3s;
+}
+.card-lex{
+    background: #a29f9f;
+    border-radius: 20px;
+  
+  }
+.card-lex:hover{
+    background-color:  #7a792f;
+}
